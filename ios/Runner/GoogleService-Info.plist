@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>956227727670-6jrp3kn5ng087lj1srea9cfb63ui0u94.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.956227727670-6jrp3kn5ng087lj1srea9cfb63ui0u94</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_43DMUj1waf_VnvCApSmk7R2CyZ6AGWY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>956227727670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.oregonstate.arifig.wasteagram</string>
+	<key>PROJECT_ID</key>
+	<string>arifig-wasteagram</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arifig-wasteagram.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:956227727670:ios:80e74082487412ae39c397</string>
+	<key>DATABASE_URL</key>
+	<string>https://arifig-wasteagram.firebaseio.com</string>
+</dict>
+</plist>
